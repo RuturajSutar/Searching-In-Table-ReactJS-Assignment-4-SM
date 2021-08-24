@@ -1,0 +1,9 @@
+.inSameLine{
+    display: inline-block;
+    width: 75%;
+}
+
+.myinput{
+    width: 100%;
+    height: 25px;
+}

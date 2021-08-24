@@ -1,0 +1,54 @@
+.myform{
+    width: 100%;
+}
+
+td{
+    border: none;
+}
+
+
+.x{
+    width: 30%;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.y{
+    width: 30%;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.z{
+    width: 30%;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+
+#p{
+    width: 100%;
+    text-align: start;
+}
+
+#q{
+    width: 35%;
+}
+
+#r{
+    width: 100%;
+    text-align: start;
+}
+
+#s{
+    width: 35%;
+}
+
+#t{
+    width: 100%;
+    text-align: start;
+}
+
+#u{
+    width: 35%;
+}

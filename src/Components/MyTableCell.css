@@ -1,0 +1,25 @@
+.tc{
+    width: 100%;
+    text-align: center;
+}
+
+.one{
+    width: 30%;
+    display: inline-block;
+    border: 1px solid black;
+    height: 25px;
+}
+
+.two{
+    width: 30%;
+    display: inline-block;
+    border: 1px solid black;
+    height: 25px;
+}
+
+.three{
+    width: 30%;
+    display: inline-block;
+    border: 1px solid black;
+    height: 25px;
+}

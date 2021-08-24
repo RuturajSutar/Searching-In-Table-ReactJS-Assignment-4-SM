@@ -1,0 +1,10 @@
+.inline{
+    display: inline-block;
+    width: 22%;
+    margin-right: 3%;
+}
+
+.myselect{
+    width: 100%;
+    height: 30px;
+}
